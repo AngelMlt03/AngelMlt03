@@ -48,3 +48,6 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
   </a>
+
+## 🏫 **University Github**
+<p>Check out my university GitHub account to see my projects -> <a href="https://github.com/UO287747" target="_blank" rel="noreferrer">UO287747</a></p>
